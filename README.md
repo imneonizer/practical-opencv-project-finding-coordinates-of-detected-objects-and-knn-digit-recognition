@@ -48,7 +48,7 @@ once the cropped images along are saved the recogniton directory contains anothe
 ![Training image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/6.png)
 
 i have written idx value first becase when we match our data with the dictionary in whih we have stored the idx values and the coordinates of the recognized it will be easier to link the recoggnized the number images with their original coordinate position after they are arranged in ascending order more over we dont know how many circles were there in the images so the index numbers `idx` will help to fetch the information i.e if we will call `idx = 0` it will always printout the smallest recognized value and its coordinate postion from the detected circles.
-#### Final words
+## Final words
 The project is developed for the computer to play the game automatically and score as high as possible it is able to do so because before taking any steps it takes the screen shot analyse it and then perform any action how ever i skipped that screenshort part here and explained everything after that so you can check the program still runs when i give the screenshotted image as input.
 
  
