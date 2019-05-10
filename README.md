@@ -26,7 +26,7 @@ You will see output something similar to this
 you can change the image to test the program, i have provides five sample images
 ![Change image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/assets/1.png)
 change `screenshot = 'images/1.png'` to `screenshot = 'images/2.png'` or `screenshot = 'images/3.png'` upto five sample images that i have provided.
->BTW you can download and play this game by downloading the applicaation from this [ webiste](https://www.funnearn.com/)
+>BTW you can play this game by downloading the application from this [ website](https://www.funnearn.com/)
 
 ### Actual image, `images/1.png`
 ![Original image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/1.png)
