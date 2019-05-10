@@ -28,7 +28,7 @@ you can change the image to test the program, i have provides five sample images
 change `screenshot = 'images/1.png'` to `screenshot = 'images/2.png'` or `screenshot = 'images/3.png'` upto five sample images that i have provided.
 >BTW you can download and play this game by downloading the applicaation from this [ webiste](https://www.funnearn.com/)
 
-### Actual image `images/1.png`
+### Actual image, `images/1.png`
 ![Original image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/1.png)
 
 #### So far you have got the idea and working pipeline of the project
