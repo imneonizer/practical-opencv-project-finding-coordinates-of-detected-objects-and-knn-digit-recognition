@@ -43,7 +43,7 @@ once the cropped images along are saved the recogniton directory contains anothe
  which crops the digit parts from those circles and after recognizing the numbers it renames the files as their recognized values i.e if a circle has number written as '5' inside it then it will be save as concatinated value of its index value and its recognized value `idx_val.png` ==`1_5.png`
 ![recognized numbers](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/assets/4.png)
 >The Knn recognition file was trained with the fonts appearing inside the circle
-![Training image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/recognition/training_chars_for_questions.png)
+![Training image](https://github.com/imneonizer/practical-opencv-project-finding-coordinates-of-detected-objects-and-knn-digit-recognition/blob/master/images/6.png)
 
 i have written idx value first becase when we match our data with the dictionary in whih we have stored the idx values and the coordinates of the recognized it will be easier to link the recoggnized the number images with their original coordinate position after they are arranged in ascending order more over we dont know how many circles were there in the images so the index numbers `idx` will help to fetch the information i.e if we will call `idx = 0` it will always printout the smallest recognized value and its coordinate postion from the detected circles.
 #### Final words
